@@ -1,2 +1,2 @@
 # Portfolio-Template
-Html + CSS + Template
+Html + CSS Template
