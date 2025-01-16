@@ -1,2 +1,2 @@
-# Webpage
-A frontend template using Html and  Css
+# Website Page
+An Html and Css webpage template 
