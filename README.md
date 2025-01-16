@@ -1,2 +1,2 @@
 # Website Page
-An Html and Css webpage template 
+An Html, Css Webpage Template 
